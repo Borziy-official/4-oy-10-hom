@@ -1,0 +1,23 @@
+.m {
+    display: flex;
+    justify-content: center;
+    margin: auto auto;
+}
+
+body {
+    background-color:blue;
+}
+form{
+    background-color: wheat;
+    border-radius: 10px;
+    padding: 60px 60px;
+    margin-top: 100px;
+}
+.p{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.list{
+    display: flex;
+}
